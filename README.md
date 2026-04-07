@@ -14,5 +14,6 @@ Aplicação desenvolvida em React para explorar e organizar repositórios do Git
 - React
 - Styled Components
 - GitHub API
+
 🎯 Objetivo
 Projeto criado como prática em React, mas também como uma ferramenta útil para quem trabalha diariamente com GitHub.
